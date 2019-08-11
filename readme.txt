@@ -5,3 +5,4 @@
 3. check stashb branch
 
 4. second branch 
+4. stashb branch changed
